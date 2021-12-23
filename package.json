@@ -1,0 +1,11 @@
+{
+  "name": "mi-js-textbased-game",
+  "version": "1.0.0",
+  "description": "A game created as a school assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dennis Lundgren",
+  "license": "ISC"
+}
